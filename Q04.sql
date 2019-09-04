@@ -1,0 +1,1 @@
+select chkedout_Books from Customer where Customer_Name = 'Samwise McGee';
